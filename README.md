@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Contrastive Learning
 
 
-- 📫 How to reach me **michelangelo.martorana@gmail.com**
+- 📫 How to reach me **michelangelo.martorana03@gmail.com**
 
