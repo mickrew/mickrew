@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelangelo Martorana</h1>
-<h3 align="center">I'm Michelangelo Martorana, a computer engineer who is finishing his studies in Artificial Intelligence and Data Engineering</h3>
+<h3 align="center">I am an MSc student and I am currently finishing my master's studies in Artificial Intelligence and Data Engineering at the University of Pisa.</h3>
 
 - 🔭 I’m currently working on my Master Thesis about Explainatory AI Algorithms
 
